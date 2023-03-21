@@ -22,7 +22,7 @@ I created these projects as a way to showcase my skills in data analysis and vis
 
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information, drawing conclusions, and supporting decision-making. In the context of this repository, data analysis is focused on using various tools and techniques to extract insights and meaning from datasets.Data analysis is a critical skill in a wide range of fields, from business and finance to healthcare and social sciences. By analyzing data, we can make more informed decisions, identify opportunities for improvement, and solve complex problems
 
-#Tech & Tools
+# Tech & Tools
 The projects in this repository were created using a variety of technologies, including:
 
 - Python
