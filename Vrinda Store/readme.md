@@ -54,5 +54,6 @@ The analysis of this data can help the business in making informed decisions rel
 
 5) By targeting women customers of age group (30-49 yrs) living in specific states and by focusing on specific sales channels, the business can increase its sales and improve its profitability.
 
-
+Thank you for taking the time to review my project, and please feel free to reach out to me with any questions or feedback!
+Thank you for visiting my GitHub repository!
 
