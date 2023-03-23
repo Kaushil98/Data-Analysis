@@ -1,6 +1,6 @@
 # Vrinda Store Annual Sales Report
 
-Welcome to my GitHub repository! In this repository, you will find a project I created that involves creating an annual sales report for Vrinda Store for the year 2022. The objective of this project is to help Vrinda Store understand their customers better and grow their sales in 2023.
+Welcome to my GitHub repository! In this repository, you will find a project I created that involves creating an annual sales report for Vrinda Store for the year 2022 using Excel. The objective of this project is to help Vrinda Store understand their customers better and grow their sales in 2023.
 
 ß
 
