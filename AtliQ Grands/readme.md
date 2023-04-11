@@ -7,6 +7,7 @@ Domain:  Hospitality, Function: Revenue Insights
   <img width="650" src="https://user-images.githubusercontent.com/125198239/227038312-1db37c4e-b0f6-4675-b2ce-67a24c7876ad.png">
 </p>
 
+
 AtliQ Grands is a chain of five-star hotels in India that has been facing a decline in revenue due to market competition and ineffective decision-making. As a strategic move, the company has decided to incorporate business and data intelligence to regain their market share and revenue. As a data analyst, I have been tasked with creating a dashboard that provides insights from historical data to the revenue management team.
 
 
