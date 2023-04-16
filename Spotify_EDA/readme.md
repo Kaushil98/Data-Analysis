@@ -1,4 +1,13 @@
 # Exploratory Data Analysis of Spotify Songs Dataset
+
+<p align="center">
+  <br>
+  <img src="https://media.giphy.com/media/l46CyAJqiI3EB9zDW/giphy.gif" width="600" height="400" />
+  <br>
+</p>
+
+
+
 This project aims to perform Exploratory Data Analysis (EDA) on the Spotify Songs dataset. The dataset contains information about various songs on the Spotify platform, including attributes such as song title, artist, duration, popularity, and audio features such as danceability, energy, and tempo.
 
 The project has been implemented using Python programming language and popular data analysis libraries such as pandas, matplotlib, seaborn, and plotly.
